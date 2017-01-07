@@ -1,5 +1,0 @@
-name: TrigunNFS
-description: |
-  Deploy a NFS Storage Volume
-version: 0.1.0
-category: Storage
