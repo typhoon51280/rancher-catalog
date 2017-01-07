@@ -1,0 +1,6 @@
+.catalog:
+	name: "TrigunNFS"
+	version: "0.1.0"
+	description: "Trigun NFS Storage Volume"
+nfs-server:
+	scale: 1
